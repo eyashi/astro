@@ -1,6 +1,6 @@
 # ~ Astro ~
 
-This will a small visual display of planetary position data.
+This will be a small visual display of planetary position data.
 It uses concepts from astrology, astronomy, and crystal chemistry to seed the
 visualization.
 
@@ -10,7 +10,7 @@ I'd eventually like some interactivity with the interface. Something you can
 
 To install:  
 `git clone` this repo  
-`cd` into said repo
+`cd` into said repo  
 `pip install requirements.txt`  
 `python astro.py` to be guided through the setup for the first time  
 
