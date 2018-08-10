@@ -1,6 +1,6 @@
 # ~ Astro ~
 
-This will a small visual display of planetary position data.
+This will be a small visual display of planetary position data.
 It uses concepts from astrology, astronomy, and crystal chemistry to seed the
 visualization.
 
