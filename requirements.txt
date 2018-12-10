@@ -37,7 +37,7 @@ python-dateutil==2.7.3
 pytz==2018.5
 PyWavelets==0.5.2
 pyxel==0.7.7
-requests==2.19.1
+requests==2.20.1
 scikit-image==0.14.0
 scipy==1.1.0
 six==1.11.0
